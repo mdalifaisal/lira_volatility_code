@@ -1,1 +1,1 @@
-# lira_volatility_code
+### This repository contains code and data files for one of the essays I wrote for my Ph.D. thesis. These analyses are also a part of the paper  I co-authored with Prof. Murat Donduran of Yildiz Technical University, Turkey.
